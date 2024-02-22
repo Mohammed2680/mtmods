@@ -1,3 +1,4 @@
-Version 35 Changelog:
+Version V21 Changelog:
 
-> Download MTWhatsApp
+> {Improved} More Anti-ban protection 🛡.
+> {Fixed} Other fixes and improvements.
