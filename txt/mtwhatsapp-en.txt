@@ -1,4 +1,4 @@
-Version 37 Changelog:
+Version V37 Changelog:
 
 >🛠{Improved} More Anti-ban protection 🛡.
 >🛠{Fixed} Other fixes and improvements.
