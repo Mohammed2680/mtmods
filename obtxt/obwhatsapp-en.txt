@@ -1,3 +1,4 @@
-Version 48 Changelog:
+Version 50 Changelog:
 
-> Download OBWhatsApp
+🛠{Improved} More Anti-ban protection!🛡.
+🛠{Fixed} Other fixes and improvements.
