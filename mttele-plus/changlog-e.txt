@@ -1,7 +1,7 @@
-Version 3.5.0 Changelog:
+الإصدار 14.0 سجل التغيير:
 
-> Update source code to v10.13.1.2.
-> (Exclusive) Screen capture enabled for stories if it is stopped
-> (Exclusive) Story saving enabled if it is stopped
-> (Exclusive) Copy story link enabled if it is stopped
-> Bug fixes and other minor improvements.
+ > تحديث كود المصدر إلى الإصدار 10.13.1.2.
+ > (حصرياً) تمكين التقاط الشاشة للقصص في حالة إيقافها
+ > (حصرياً) تمكين حفظ القصة في حال توقفها
+ > (حصريا) نسخ رابط القصة مفعل في حال توقفه
+ > إصلاحات الأخطاء والتحسينات الطفيفة الأخرى.
