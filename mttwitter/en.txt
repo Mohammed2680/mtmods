@@ -1,4 +1,4 @@
-Version 17 Changelog:
+Version 3 Changelog:
 
 > ➕{Added} You can post Status in linked device.
 > ➕{Added} See channels in linked device.
