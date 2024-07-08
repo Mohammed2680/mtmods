@@ -1,8 +1,7 @@
-Version 14.00. Changelog:
+Version 14.0 Changelog:
 
-> Rework Time Line
-> Implement Group Users Filtering for Transfer Member
-> Redesigned icon selection in settings
-> Improved display performance of deleted messages
-> Implement settings for Drawer icon theme
-> Implement settings for swipe to next channel
+> Update source code to v10.13.1.2.
+> (Exclusive) Screen capture enabled for stories if it is stopped
+> (Exclusive) Story saving enabled if it is stopped
+> (Exclusive) Copy story link enabled if it is stopped
+> Bug fixes and other minor improvements.
