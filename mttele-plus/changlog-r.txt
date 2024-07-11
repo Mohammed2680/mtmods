@@ -1,4 +1,4 @@
-Version 14.0 Changelog:
+Version 13.0 Changelog:
 
 > Update source code to v10.13.1.2.
 > (Exclusive) Screen capture enabled for stories if it is stopped
