@@ -1,16 +1,1 @@
-Version 2.0. Changelog:
-
- >[Based] on YouTube base 19.25.39.
- >[Added] All new features. 
- >[Add] splash animation.
- >[Added] More playback speed options.
- >[Add] “Double-click to search” option.
- >[Add] Debugging options.
- >[Added] The ability to adjust the default playback speed settings.
- >[Added] The ability to adjust default video quality settings.
- >[Bypass] Ambient mode restrictions in battery saver mode.
- >[Activate] Compact control overlay.
- >[Activate] Open the URL outside the application in an external browser.
- >[Activate] Mini and background playback.
- >[More] Improvements and fixes.
 
