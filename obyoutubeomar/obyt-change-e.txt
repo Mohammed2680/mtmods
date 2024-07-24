@@ -1,6 +1,6 @@
 Version 2.0. Changelog:
 
- >[Based] on YouTube base 19.20.34.
+ >[Based] on YouTube base 19.25.39.
  >[Added] All new features. 
  >[Add] splash animation.
  >[Added] More playback speed options.
