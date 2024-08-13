@@ -1,10 +1,8 @@
 {
-  "Gold": {
+  "MTMods": {
     "update_code": "0",
     "reminder_time": "3",
     "update_version": "v23.0",
-    "com.ANInsta.android": "https://bit.ly/download-mtinstagram",
-    "com.ANInsta.android": "https://bit.ly/download-mtinstagram",
     "com.ANInsta.android": "https://bit.ly/download-mtinstagram",
     "update_message": "
 <p>Update Vطھط­ط¯ظٹط« 23.0</p>
