@@ -3,7 +3,8 @@
     "update_code": "0",
     "reminder_time": "3",
     "update_version": "v23.0",
-    "com.ANInsta.android": "https://bit.ly/download-mtinstagram",
+    "com.instagram.android": "https://bit.ly/download-mtinstagram",
+"com.instagram.android": "https://bit.ly/download-mtinstagram",
     "update_message": "
 <p>Update Vطھط­ط¯ظٹط« 23.0</p>
 <li>ط§ظ„طھط­ط¯ظٹط« ظ„ظ†ط³ط®ط© ط§ظ„ظ…ط§ط±ظƒطھ 2.24.8.85</li>
