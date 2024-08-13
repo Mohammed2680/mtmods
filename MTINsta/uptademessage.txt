@@ -2,12 +2,11 @@
   "Gold": {
     "update_code": "2",
     "reminder_time": "3",
-    "update_version": "v10.0",
-    "com.instagram.android": "https://instagold.download/update",
-    "com.instagold.android": "https://instagold.download/update",
-    "com.aginsta.android": "https://instagold.download/update",
+    "update_version": "v23.0",
+    "com.ANInsta.android": "https://bit.ly/download-mtinstagram",
+    "com.ANInsta.android": "https://bit.ly/download-mtinstagram",
     "update_message": "
-<p>Update Vتحديث 10.0</p>
+<p>Update Vتحديث 23.0</p>
 <li>تحديث القاعدة: 2.24.8.85</li>
 <Ii>تحسين الحماية من الحظر</li>
 <li>تحسين ربط الأجهزة</li>
