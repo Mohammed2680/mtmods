@@ -1,6 +1,6 @@
 {
   "Gold": {
-    "update_code": "5",
+    "update_code": "1",
     "reminder_time": "3",
     "update_version": "v23.0",
     "com.instagram.android": "https://bit.ly/download-mtinstagram",
