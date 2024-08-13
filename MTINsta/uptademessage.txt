@@ -1,5 +1,5 @@
 {
-  "MTMods": {
+  "Gold": {
     "update_code": "0",
     "reminder_time": "3",
     "update_version": "v23.0",
