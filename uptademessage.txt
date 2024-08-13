@@ -2,12 +2,12 @@
   "Gold": {
     "update_code": "4",
     "reminder_time": "3",
-    "update_version": "v10.0",
+    "update_version": "v23.0",
     "com.instagram.android": "https://instagold.download/update",
     "com.instagold.android": "https://instagold.download/update",
     "com.aginsta.android": "https://instagold.download/update",
     "update_message": "
-<p>Update Vطھط­ط¯ظٹط« 10.0</p>
+<p>Update Vطھط­ط¯ظٹط« 23.0</p>
 <li>ط§ظ„طھط­ط¯ظٹط« ظ„ظ†ط³ط®ط© ط§ظ„ظ…ط§ط±ظƒطھ 2.24.8.85</li>
 <li>طھط­ط³ظٹظ† ط§ظ„ط­ظ…ط§ظٹط© ط¶ط¯ ط§ظ„ط­ط¸ط±</li>
 <li>طھط­ط³ظٹظ† ط¥ظ…ظƒط§ظ†ظٹط© ط±ط¨ط· ط§ظ„ط£ط¬ظ‡ط²ط©</li>
