@@ -3,8 +3,8 @@
     "update_code": "4",
     "reminder_time": "3",
     "update_version": "v23.0",
-    "com.instagram.android": "https://instagold.download/update",
-    "com.instagold.android": "https://instagold.download/update",
+    "com.ANInsta.android": "https://instagold.download/update",
+    "com.ANInsta.android": "https://instagold.download/update",
     "com.aginsta.android": "https://instagold.download/update",
     "update_message": "
 <p>Update Vطھط­ط¯ظٹط« 23.0</p>
