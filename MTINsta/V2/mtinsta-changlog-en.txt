@@ -1,27 +1,6 @@
-InstagramWhat's new in Instagram Plus V23.0:
+What's new in Instagram Plus V23.0:
 ✔️ Fixed the problem of changing the icon 
 ✔️ Fixed Crash problem when opening group chats
 ✔️ Fixed Location of the Send button
 ✔️ Fixed Problem when downloading videos shows that they are not supported
-✔️ fixes and other improvements Plus V23.0
-📆 Date 08/13/2024
-⏫ Base update to 325.0.0.35.91
-📌 Exclusively adding a theme server. Nearly 5,000 themes have been added
-📌 Exclusively support changing emoji (iPhone, Facebook, Twitter and more..)
-📌 Exclusively support changing the program font (nearly 100 fonts have been added)
-📌 Exclusively supports changing the font in stories (iPhone, Facebook, Twitter and nearly 100 other fonts)
-📌 Exclusively, you can now lock a custom conversation with a lock
-📌 Exclusively, you can copy/translate/share any comment
-📌 Exclusively, you can copy/translate/share any post
-📌 Exclusively, you can copy/translate/share any message
-Improved fingerprint and PIN lock feature
-Added an option to hide profile pictures from conversations
-Added an option to hide the profile picture within any conversation
-Added an option to show a confirmation window before connecting
-Added an option to hide the video icon in the conversation
-Added an option to hide the contact icon in the conversation
-Added an option to disable clicking on the profile picture
-Fix the installation problem in Android 14
-Fix the problem of crashing sometimes
-Fix the crash problem on some devices
-More fixes and other improvements
+✔️ fixes and other improvements
