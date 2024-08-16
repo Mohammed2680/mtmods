@@ -1,4 +1,9 @@
-Instagram Plus V23.0
+InstagramWhat's new in Instagram Plus V23.0:
+✔️ Fixed the problem of changing the icon 
+✔️ Fixed Crash problem when opening group chats
+✔️ Fixed Location of the Send button
+✔️ Fixed Problem when downloading videos shows that they are not supported
+✔️ fixes and other improvements Plus V23.0
 📆 Date 08/13/2024
 ⏫ Base update to 325.0.0.35.91
 📌 Exclusively adding a theme server. Nearly 5,000 themes have been added
