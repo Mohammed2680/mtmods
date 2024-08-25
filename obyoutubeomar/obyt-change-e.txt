@@ -1,1 +1,5 @@
+Version 2.0. Changelog:
 
+ >✔️ Fixed Problem downloading videos.
+ >✔️ Fixed All crash problems. 
+ >☄️ More fixes and other improvements.
