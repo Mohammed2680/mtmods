@@ -3,8 +3,8 @@
     "update_code": "22",
     "reminder_time": "1",
     "update_version": "V23",
-    "com.instagram.android": "https://www.smart5hone.com/2019/05/aninstagram.html",
-    "com.ANInsta.android": "https://www.smart5hone.com/2019/05/aninstagram.html",
+    "com.instagram.android": "https://www.mtaltawaf.com/2020/11/mtinstagram.html",
+    "com.ANInsta.android": "https://www.mtaltawaf.com/2020/11/mtinstagram.html",
     "update_message": "
 <p>Update Vط·ع¾ط·آ­ط·آ¯ط¸ظ¹ط·آ« 23</p>
 <li>ط·آ§ط¸â€‍ط·ع¾ط·آ­ط·آ¯ط¸ظ¹ط·آ« ط¸â€‍ط¸â€ ط·آ³ط·آ®ط·آ© ط·آ§ط¸â€‍ط¸â€¦ط·آ§ط·آ±ط¸ئ’ط·ع¾ 325.0.0.35.91</li>
