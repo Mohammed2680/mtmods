@@ -1,6 +1,6 @@
 {
   "MTMods": {
-    "update_code": "23",
+    "update_code": "22",
     "reminder_time": "1",
     "update_version": "V23",
     "com.instagram.android": "https://www.smart5hone.com/2019/05/aninstagram.html",
