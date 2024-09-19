@@ -1,22 +1,7 @@
 Version 14.0 Changelog:
 
->Update source code to v11.0.0.1.
->Added option to translate instant view.
->Added option in groups to quote user message in private.
->Added option in groups to set restriction duration when deleting user messages.
->Mini App Store.
->Sharing from Mini Apps to Stories.
->Gifting Stars to Friends.
->Flash when Recording Video Messages.
->Weather Widget in Stories.
->Story Covers.
->Star Reactions for Channels.
->Paid Channel Subscriptions.
->Super Channels.
->Pay for Content with Telegram Stars.
->Search Stories by Hashtag by Location.
->Link Widget in Stories.
->Rewards for Content Creators and Developers.
->Toncoin Rewards.
->Subsidized Ads for Creators and Developers.
->Bug fixes and other minor improvements.
+> Update source code to v10.13.1.2.
+> (Exclusive) Screen capture enabled for stories if it is stopped
+> (Exclusive) Story saving enabled if it is stopped
+> (Exclusive) Copy story link enabled if it is stopped
+> Bug fixes and other minor improvements.
