@@ -1,4 +1,4 @@
-Version 14.0 Changelog:
+Version 14.00 Changelog:
 
 > 📢 Update source code to v11.0.0.1.
 > • Added option to translate instant view.
