@@ -1,7 +1,7 @@
 Version 14.00 Changelog:
 
-> 📢 Update source code to v11.0.0.1.
-> • Added option to translate instant view.
+> Update source code to v11.0.0.1.
+> Added option to translate instant view.
 > Added option in groups to quote user message in private.
 > Added option in groups to set restriction duration when deleting user messages.
 > Mini App Store.
