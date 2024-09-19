@@ -1,23 +1,36 @@
-{ 
-   "force_update":false,
-   "version":14.00,
-   "changelog":"
-   \n[تحديث قاعدة] 278.0.0.21.122
-   \n[حصريا] يمكنك اخذ لقطة شاشة بدون معرفة الطرف الآخر.
-   \n[حصريا] يمكنك إعادة مشاهدة اي صورة بدون معرفة الطرف الآخر
-   \n[حصريا] يمكنك إخفاء انك استمعت الى المقطع الصوتي
-   \n[اضافة] جميع مميزات انستقرام الجديده
-   \n[اضافة] اللغه الفرنسيه
-   \n[اضافة] اللغه الاسبانيه
-   \n[اضافة] اللغه الارديه
-   \n[اضافة] اللغه الفارسيه
-   \n[اضافة] اللغه الاندونيسيه
-   \n[اضافة] اللغه الهنديه
-   \n[اضافة] اللغه الايطاليه
-   \n[اضافة] اللغه الروسيه
-   \n[اضافة] اللغه الالمانيه
-   \n[اصلاح] مشكلة الانهيار عند تحميل الصور في المحادثه
-   \n[اصلاح] جميع مشاكل الانهيار
-   \n[مزيد] اصلاحات وتحسينات اكتشفها بنفسك"
-}
+{
+  "Gold": {
+    "update_code": "0",
+    "reminder_time": "3",
+    "update_version": "v14.00",
+    "org.mt.telegram": "https://www.mtaltawaf.com/2022/01/mttelegram-ples.html",
+    "update_message": "
+<p>Update Vتحديث 14.00</p>
+<li>التحديث لنسخة الماركت 10.13.1.2</li>
+<li>امكانية تصوير الشاشة في الستوري في حالة المنع</li>
+<li>امكانية حفظ الستوري في حالة المنع</li>
+<li>امكانية نسخ رابط الستوري في حالة المنع</li>
+<li>تأثيرات الرسائل</li>
+<li>التسميات أعلى الوسائط</li>
+<li>إجراءات سريعة لأرقام الهواتف</li>
+<li>بحث الهاشتاج</li>
+<li>اقتباسات قابلة للطي</li>
+<li>اضافة ملفي الشخصي</li>
+<li>اضافة أعياد الميلاد</li>
+<li>إصلاحات اخرى</li>
 
+<li>Base Update: 10.13.1.2</li>
+<li>Screen capture enabled for stories if it is stopped</li>
+<li>Story saving enabled if it is stopped</li>
+<li>Copy story link enabled if it is stopped</li>
+<li>Message Effects</li>
+<li>Captions Above Media</li>
+<li>Quick Actions for Phone Numbers</li>
+<li>Hashtag Search</li>
+<li>Collapsible Quotes</li>
+<li>Added My Profile</li>
+<li>Added Birthdays</li>
+<li>Other fixes</li>
+"
+    }
+}
