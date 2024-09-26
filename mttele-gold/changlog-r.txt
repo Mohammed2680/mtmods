@@ -1,6 +1,6 @@
 Version 14.0 Changelog:
 
-> Update source code to v10.13.1.2.
+> Update source code to v11.0.0.1.
 > (Exclusive) Screen capture enabled for stories if it is stopped
 > (Exclusive) Story saving enabled if it is stopped
 > (Exclusive) Copy story link enabled if it is stopped
