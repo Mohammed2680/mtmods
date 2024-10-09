@@ -1,1 +1,12 @@
+Version 14.0. Changelog:
 
+>[Base] Update Updated to 18.43.45 - Play Store
+>[Added] All new features.
+>[Added] Hide videos with low views
+>[Added] Sanitize sharing links
+>[Added] Spoof player parameter in feed
+>[Added] Notification when downloading videos
+>[Fixed] Problem of video clips stopping minutes after playing the video
+>[Fixed] Toast "MicroG does not run in the background"
+>[Fixed] All problems
+>[Misc] Many other fixes and improvements that we forgot
