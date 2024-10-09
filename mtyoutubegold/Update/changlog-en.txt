@@ -1,4 +1,4 @@
-Version 13.0. Changelog:
+Version 14.0. Changelog:
 
  >✔️ Fixed Problem downloading videos.
  >✔️ Fixed All crash problems. 
