@@ -1,1 +1,7 @@
+Version 15.0 Changelog:
 
+> Update source code to v11.0.0.1.
+> (Exclusive) Screen capture enabled for stories if it is stopped
+> (Exclusive) Story saving enabled if it is stopped
+> (Exclusive) Copy story link enabled if it is stopped
+> Bug fixes and other minor improvements.
