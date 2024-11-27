@@ -1,5 +1,8 @@
-Version 14.0. Changelog:
+Version 15.0. Changelog:
 
- >✔️ Fixed Problem downloading videos.
- >✔️ Fixed All crash problems. 
- >☄️ More fixes and other improvements.
+>📢 Updated the base to version 19.30.39.
+>🆕 New design for the Gold Settings and also for the video page.
+>✔️ Fixed Problem of not being able to play videos.
+>✔️ Fixed Problem downloading videos.
+>✔️ Fixed All crash problems.
+>☄️ More fixes and other improvements.
