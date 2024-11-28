@@ -3,7 +3,7 @@
     "update_code": "0",
     "reminder_time": "3",
     "update_version": "v15.0",
-    "com.gold.android.youtube": "https://youtubegold.app/update",
+    "com.gold.android.youtube": "https://www.mtaltawaf.com/2022/05/mtyoutube-gold.html",
     "update_message": "
 <p>Update Vتحديث 15.0</p>
 <li>التحديث لنسخة الماركت 10.13.1.2</li>
