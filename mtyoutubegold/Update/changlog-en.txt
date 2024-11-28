@@ -1,5 +1,7 @@
 Version 15.0. Changelog:
 
- >📢 Updated the base to version 19.30.39.
- >✔️ Fixed All crash problems. 
- >☄️ More fixes and other improvements.
+>Base Update 19.30.34
+>Added All new features
+>Fixed Problem of hanging in some clips minutes after playing the video
+>Bugs Fixed
+>Lots of bug fixes in this update
