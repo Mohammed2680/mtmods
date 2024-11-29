@@ -1,5 +1,9 @@
-Version 3.0. Changelog:
+Version 4.0. Changelog:
 
- >✔️ Fixed Problem downloading videos.
- >✔️ Fixed All crash problems. 
- >☄️ More fixes and other improvements.
+>Base Update 19.30.34.
+>Added All new features.
+>New design for the Gold Settings and also for the video page.
+>Fixed Problem of not being able to play videos.
+>Fixed Problem downloading videos.
+>Fixed All crash problems.
+>More fixes and other improvements.
