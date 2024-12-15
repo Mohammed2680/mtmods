@@ -1,1 +1,10 @@
+Version 5.0 Changelog:
 
+> Update source code to v11.4.2.1.
+> Support for Telegram Stars giveaways.
+> Improved Videos: Faster Loading, Better Quality, Adjusting Playback Speed.
+> Last Edit Timestamps.
+> Chat-Specific Hashtags.
+Telegram Ads in Bots, Increased Message Limits for Bots.
+> Exact Reaction Counters
+> Bug fixes and other minor improvements.
