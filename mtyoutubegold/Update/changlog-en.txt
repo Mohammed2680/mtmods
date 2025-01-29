@@ -1,9 +1,6 @@
-Version 15.0. Changelog:
+Version 16.0. Changelog:
 
->Base Update 19.30.34.
 >Added All new features.
->New design for the Gold Settings and also for the video page.
->Fixed Problem of not being able to play videos.
 >Fixed Problem downloading videos.
 >Fixed All crash problems.
 >More fixes and other improvements.
