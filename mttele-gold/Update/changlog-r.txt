@@ -1,4 +1,4 @@
-Version 17.0 Changelog:
+Version 19.0 Changelog:
 
 > Update source code to v11.4.2.1.
 > Support for Telegram Stars giveaways.
