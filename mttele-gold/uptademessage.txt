@@ -2,10 +2,10 @@
   "Gold": {
     "update_code": "0",
     "reminder_time": "3",
-    "update_version": "v14.00",
+    "update_version": "v19.00",
     "org.mt.telegram": "https://www.mtaltawaf.com/2022/01/mttelegram-ples.html",
     "update_message": "
-<p>Update Vتحديث 14.00</p>
+<p>Update Vتحديث 19.00</p>
 <li>التحديث لنسخة الماركت 10.13.1.2</li>
 <li>امكانية تصوير الشاشة في الستوري في حالة المنع</li>
 <li>امكانية حفظ الستوري في حالة المنع</li>
