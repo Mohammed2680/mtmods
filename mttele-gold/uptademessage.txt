@@ -1,35 +1,25 @@
 {
   "Gold": {
-    "update_code": "7",
+    "update_code": "10",
     "reminder_time": "3",
-    "update_version": "v19.00",
+    "update_version": "v21.0",
     "org.mt.telegram": "https://www.mtaltawaf.com/2022/01/mttelegram-ples.html",
     "update_message": "
-<p>Update Vتحديث 19.00</p>
-<li>التحديث لنسخة الماركت 10.13.1.2</li>
-<li>امكانية تصوير الشاشة في الستوري في حالة المنع</li>
-<li>امكانية حفظ الستوري في حالة المنع</li>
-<li>امكانية نسخ رابط الستوري في حالة المنع</li>
-<li>تأثيرات الرسائل</li>
-<li>التسميات أعلى الوسائط</li>
-<li>إجراءات سريعة لأرقام الهواتف</li>
-<li>بحث الهاشتاج</li>
-<li>اقتباسات قابلة للطي</li>
-<li>اضافة ملفي الشخصي</li>
-<li>اضافة أعياد الميلاد</li>
+<p>Update Vتحديث 21.0</p>
+<li>التحديث لنسخة الماركت 12.0.1.1</li>
+<li>حافظ على تنظيم صندوق الوارد الخاص بك باستخدام ميزة تمييز الرسائل بنجمة</li>
+<li>تعرّف على هوية من يرسل لك الرسائل من خلال تأكيد جهات الاتصال</li>
+<li>قدّم هدايا الاشتراك المميز باستخدام النجوم</li>
+<li>اسحب رصيد النجوم من خلال منصة Fragment</li>
+<li>ثبت الهدايا على ملفك الشخصي ليراها الجميعة</li>
 <li>إصلاحات اخرى</li>
 
-<li>Base Update: 10.13.1.2</li>
-<li>Screen capture enabled for stories if it is stopped</li>
-<li>Story saving enabled if it is stopped</li>
-<li>Copy story link enabled if it is stopped</li>
-<li>Message Effects</li>
-<li>Captions Above Media</li>
-<li>Quick Actions for Phone Numbers</li>
-<li>Hashtag Search</li>
-<li>Collapsible Quotes</li>
-<li>Added My Profile</li>
-<li>Added Birthdays</li>
+<li>Base Update: 12.0.1.1</li>
+<li>Stay in Control of Your Inbox with Star Messages</li>
+<li>Know Who’s Messaging You with Contact Confirmation</li>
+<li>Gift Premium with Stars</li>
+<li>Withdraw Stars via Fragment</li>
+<li>Pin Gifts on Your Profile</li>
 <li>Other fixes</li>
 "
     }
