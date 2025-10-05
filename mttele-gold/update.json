@@ -1,1 +1,11 @@
-
+{
+  "latestVersionCode": 0,
+  "latestVersionName": "21.0",
+  "whatsNew": {
+    "ar": "- إصلاح مشكلة الانهيار عند تفعيل خيار عدم وضع علامة على قراءة الرسائل\n- إصلاح مشكلة الفراغ داخل المحادثات\n- إصلاح مشكلة ظهور رسالة التحديث بشكل دائم",
+    "en": "- Fixed crash issue when enabling the 'Don't mark messages as read' option\n- Fixed empty space issue inside chats\n- Fixed the issue of the update message appearing constantly"
+  },
+  "downloadUrl": "https://www.mtaltawaf.com/2022/01/mttelegram-ples.html",
+  "forceUpdate": false,
+  "showIntervalHours": 3
+}
