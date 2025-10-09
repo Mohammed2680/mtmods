@@ -1,4 +1,5 @@
-"Gold": {
+{
+  "Gold": {
 "update_code": "8",
 "reminder_time": "3",
 "update_version": "v17",
@@ -19,4 +20,4 @@
 <li>More fixes and other improvements</li>  
 "  
     }  
-}  
+}
