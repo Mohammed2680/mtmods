@@ -1,36 +1,24 @@
 {
   "Gold": {
-    "update_code": "0",
+    "update_code": "8",
     "reminder_time": "3",
-    "update_version": "v15.0",
+    "update_version": "v17",
     "com.gold.android.youtube": "https://www.mtaltawaf.com/2022/05/mtyoutube-gold.html",
     "update_message": "
-<p>Update Vتحديث 15.0</p>
-<li>التحديث لنسخة الماركت 10.13.1.2</li>
-<li>امكانية تصوير الشاشة في الستوري في حالة المنع</li>
-<li>امكانية حفظ الستوري في حالة المنع</li>
-<li>امكانية نسخ رابط الستوري في حالة المنع</li>
-<li>تأثيرات الرسائل</li>
-<li>التسميات أعلى الوسائط</li>
-<li>إجراءات سريعة لأرقام الهواتف</li>
-<li>بحث الهاشتاج</li>
-<li>اقتباسات قابلة للطي</li>
-<li>اضافة ملفي الشخصي</li>
-<li>اضافة أعياد الميلاد</li>
+<p>Update Vتحديث 17</p>
+<li>تحديث القاعده الى ‏الاصدار 20.19.43</li>
+<li>تصميم جديد للاضفات وايضا لصفحة الفيديو</li>
+<li>حل مشكلة تعذر تشغيل الفيديوهات</li>
+<li>مشكلة تنزيل الفيديوهات</li>
+<li>إصلاح جميع مشاكل الانهيارات</li>
 <li>إصلاحات اخرى</li>
 
-<li>Base Update: 10.13.1.2</li>
-<li>Screen capture enabled for stories if it is stopped</li>
-<li>Story saving enabled if it is stopped</li>
-<li>Copy story link enabled if it is stopped</li>
-<li>Message Effects</li>
-<li>Captions Above Media</li>
-<li>Quick Actions for Phone Numbers</li>
-<li>Hashtag Search</li>
-<li>Collapsible Quotes</li>
-<li>Added My Profile</li>
-<li>Added Birthdays</li>
-<li>Other fixes</li>
+<li>Updated the base to version 20.19.43</li>
+<li>New design for the Gold Settings and also for the video page</li>
+<li>Fixed Problem of not being able to play videos</li>
+<li>Fixed Problem downloading videos</li>
+<li>Fixed All crash problems</li>
+<li>More fixes and other improvements</li>
 "
     }
 }
