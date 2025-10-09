@@ -2,10 +2,10 @@
   "Gold": {
     "update_code": "8",
     "reminder_time": "3",
-    "update_version": "v21.0",
-    "org.telegram.gold": "https://www.mtaltawaf.com/2022/01/mttelegram-ples.html",
+    "update_version": "v21",
+    "org.mt.telegram": "https://www.mtaltawaf.com/2022/01/mttelegram-ples.html",
     "update_message": "
-<p>Update Vتحديث 21.0</p>
+<p>Update Vتحديث 21</p>
 <li>التحديث لنسخة الماركت 12.0.1.1</li>
 <li>حافظ على تنظيم صندوق الوارد الخاص بك باستخدام ميزة تمييز الرسائل بنجمة</li>
 <li>تعرّف على هوية من يرسل لك الرسائل من خلال تأكيد جهات الاتصال</li>
