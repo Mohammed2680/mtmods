@@ -3,7 +3,7 @@
     "update_code": "8",
     "reminder_time": "3",
     "update_version": "v21.0",
-    "org.mt.telegram": "https://www.mtaltawaf.com/2022/01/mttelegram-ples.html",
+    "org.telegram.gold": "https://www.mtaltawaf.com/2022/01/mttelegram-ples.html",
     "update_message": "
 <p>Update Vتحديث 21.0</p>
 <li>التحديث لنسخة الماركت 12.0.1.1</li>
