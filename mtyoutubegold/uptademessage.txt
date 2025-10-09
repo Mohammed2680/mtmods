@@ -1,9 +1,9 @@
 {
   "Gold": {
-    "update_code": "9",
+    "update_code": "8",
     "reminder_time": "3",
     "update_version": "v17",
-    "com.gold.android.youtube": "https://www.mtaltawaf.com/2022/05/mtyoutube-gold.apk",
-    "update_message": "Update V17\nتحديث القاعدة الى الاصدار 20.19.43\nتصميم جديد للاضافات وصفحة الفيديو\nحل مشكلة تشغيل الفيديوهات\nإصلاح جميع مشاكل الانهيارات\nMore fixes and improvements"
+    "com.gold.android.youtube": "https://www.mtaltawaf.com/2022/05/mtyoutube-gold.html",
+    "update_message": "<p>Update Vتحديث 17</p>\n<li>تحديث القاعده الى ‏الاصدار 20.19.43</li>\n<li>تصميم جديد للاضافات وايضا لصفحة الفيديو</li>\n<li>حل مشكلة تعذر تشغيل الفيديوهات</li>\n<li>مشكلة تنزيل الفيديوهات</li>\n<li>إصلاح جميع مشاكل الانهيارات</li>\n<li>إصلاحات اخرى</li>\n<li>Updated the base to version 20.19.43</li>\n<li>New design for the Gold Settings and also for the video page</li>\n<li>Fixed Problem of not being able to play videos</li>\n<li>Fixed Problem downloading videos</li>\n<li>Fixed All crash problems</li>\n<li>More fixes and other improvements</li>"
   }
 }
