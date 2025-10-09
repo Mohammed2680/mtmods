@@ -1,9 +1,22 @@
-{
-  "Gold": {
-    "update_code": "9",
-    "reminder_time": "0",
-    "update_version": "v17",
-    "com.gold.android.youtube": "https://www.mtaltawaf.com/2022/05/mtyoutube-gold.html",
-    "update_message": "<p>Update Vتحديث 17</p>\n<li>تحديث القاعدة الى الاصدار 20.19.43</li>\n<li>تصميم جديد للاضافات وصفحة الفيديو</li>\n<li>حل مشكلة تشغيل الفيديوهات</li>\n<li>مشكلة تنزيل الفيديوهات</li>\n<li>إصلاح جميع مشاكل الانهيارات</li>\n<li>إصلاحات اخرى</li>\n<li>Updated the base to version 20.19.43</li>\n<li>New design for the Gold Settings and also for the video page</li>\n<li>Fixed Problem of not being able to play videos</li>\n<li>Fixed Problem downloading videos</li>\n<li>Fixed All crash problems</li>\n<li>More fixes and other improvements</li>"
-  }
-}
+"Gold": {
+"update_code": "8",
+"reminder_time": "3",
+"update_version": "v17",
+"com.gold.android.youtube": "https://www.mtaltawaf.com/2022/05/mtyoutube-gold.html",
+"update_message": "
+
+<p>Update Vتحديث 17</p>  
+<li>تحديث القاعده الى ‏الاصدار 20.19.43</li>  
+<li>تصميم جديد للاضفات وايضا لصفحة الفيديو</li>  
+<li>حل مشكلة تعذر تشغيل الفيديوهات</li>  
+<li>مشكلة تنزيل الفيديوهات</li>  
+<li>إصلاح جميع مشاكل الانهيارات</li>  
+<li>إصلاحات اخرى</li>  <li>Updated the base to version 20.19.43</li>  
+<li>New design for the Gold Settings and also for the video page</li>  
+<li>Fixed Problem of not being able to play videos</li>  
+<li>Fixed Problem downloading videos</li>  
+<li>Fixed All crash problems</li>  
+<li>More fixes and other improvements</li>  
+"  
+    }  
+}  
