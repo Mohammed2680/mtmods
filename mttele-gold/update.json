@@ -1,75 +1,19 @@
 {
   "latestVersionCode": 22,
   "latestVersionName": "21.0",
-  "smartUpdatePopup": {
-    "title": "✨ تحديث جديد متوفر!",
-    "subtitle": "إصدار v12.0.1.1 جاهز للتثبيت",
-    "tabs": [
-      {
-        "tabName": "العربية",
-        "scrollable": true,
-        "messageLines": [
-          "📦 تحديث قاعدة تيليجرام إلى الإصدار v12.0.1.1",
-          "🗓 إخفاء تذكير أعياد الميلاد: خيار جديد للتحكم في ظهور تذكيرات أعياد ميلاد جهات الاتصال.",
-          "🎥 جودة HLS الأصلية: يتم اختيار الجودة الأصلية بشكل افتراضي عند تشغيل الفيديو.",
-          "🔍 البحث في المنشورات: إضافة تبويب المنشورات داخل البحث لعرض النتائج ذات الصلة من القنوات العامة.",
-          "📝 ألبومات القصص: رتّب قصصك المفضلة مثل الرحلات أو صور الحيوانات في ألبومات مميزة على ملفك الشخصي.",
-          "🎁 مجموعات الهدايا: اجمع هداياك في مجموعات خاصة على ملفك أو قناتك.",
-          "⭐️ تقييم الملف الشخصي: إمكانية تقييم الملفات الشخصية.",
-          "🎁 هدايا بريميوم: أرسل أو استقبل هدايا مميزة.",
-          "🤖 تطبيق BotFather المصغّر: تحكم أسرع وأسهل في البوتات.",
-          "🎶 الموسيقى على ملفك: أضف أي ملف صوتي من محادثاتك إلى ملفك الشخصي مباشرة.",
-          "📸 تطبيق الملصقات المصغّر: أنشئ ملصقاتك المخصصة باستخدام محرر مدمج، أو أدِر حزمك عبر بوت @Stickers.",
-          "💥 تصميم جديد للملف الشخصي: لواجهة أكثر أناقة.",
-          "👤 تبويب افتراضي للملف الشخصي: يمكن تخصيصه حسب رغبتك.",
-          "🎨 سمات للهدايا: لمظهر أجمل وأكثر تنوعًا.",
-          "🔝 ترقية الهدايا للآخرين: بخيارات أكثر مرونة.",
-          "💲 قيمة الهدايا: أصبحت أوضح وأسهل في العرض.",
-          "🛠 إصلاحات للأخطاء وتحسينات عامة لزيادة الاستقرار"
-        ]
-      },
-      {
-        "tabName": "English",
-        "scrollable": true,
-        "messageLines": [
-          "📦 Source code updated to v12.0.1.1",
-          "🗓 Hide Contact Birthday Reminder: New option to disable birthday reminders for your contacts.",
-          "🎥 HLS Original Quality: Videos now play in original HLS quality by default.",
-          "🔍 Public Post Search: A new Posts tab in Search shows relevant results from public channels.",
-          "📝 Story Albums: Organize your favorite stories – vacations, pets, and more – into albums on your profile.",
-          "🎁 Gift Collections: Group your gifts into custom collections on your profile or channel.",
-          "⭐️ Profile Rating: Rate user profiles.",
-          "🎁 Premium Gifts: Send and receive exclusive gifts.",
-          "🤖 BotFather Mini App: Manage bots faster and more easily.",
-          "🎶 Music on Your Profile: Add audio files from any chat to your profile with a single tap.",
-          "📸 Stickers Mini App: Create custom stickers with the built-in editor and manage packs via @Stickers bot.",
-          "💥 New Profile Design: A refreshed look for profiles.",
-          "👤 Default Profile Tab: Choose your preferred default tab.",
-          "🎨 Gift Themes: Apply themes to gifts for a better look.",
-          "🔝 Upgrading Gifts for Other Users: More flexible gift upgrade options.",
-          "💲 Gift Value: Clearer and easier way to see gift values.",
-          "🛠 Bug fixes and other minor improvements"
-        ]
-      }
-    ],
-    "buttons": [
-      {
-        "text": "⬇️ حمّل الآن",
-        "action": "download",
-        "url": "https://www.mtaltawaf.com/2022/01/mttelegram-ples.apk",
-        "color": "#4CAF50"
-      },
-      {
-        "text": "⏳ لاحقًا",
-        "action": "dismiss",
-        "color": "#FFC107"
-      }
-    ],
+  "whatsNew": {
+    "ar": "📦 تحديث قاعدة تيليجرام إلى الإصدار v12.0.1.1.\n🗓 إخفاء تذكير أعياد الميلاد: خيار جديد للتحكم في ظهور تذكيرات أعياد ميلاد جهات الاتصال.\n🎥 جودة HLS الأصلية: يتم اختيار الجودة الأصلية بشكل افتراضي عند تشغيل الفيديو.\n🔍 البحث في المنشورات: إضافة تبويب المنشورات داخل البحث لعرض النتائج ذات الصلة من القنوات العامة.\n📝 ألبومات القصص: رتّب قصصك المفضلة مثل الرحلات أو صور الحيوانات في ألبومات مميزة على ملفك الشخصي.\n🎁 مجموعات الهدايا: اجمع هداياك في مجموعات خاصة على ملفك أو قناتك.\n⭐️ تقييم الملف الشخصي: إمكانية تقييم الملفات الشخصية.\n🎁 هدايا بريميوم: أرسل أو استقبل هدايا مميزة.\n🤖 تطبيق BotFather المصغّر: تحكم أسرع وأسهل في البوتات.\n🎶 الموسيقى على ملفك: أضف أي ملف صوتي من محادثاتك إلى ملفك الشخصي مباشرة.\n📸 تطبيق الملصقات المصغّر: أنشئ ملصقاتك المخصصة باستخدام محرر مدمج، أو أدِر حزمك عبر بوت @Stickers.\n💥 تصميم جديد للملف الشخصي: لواجهة أكثر أناقة.\n👤 تبويب افتراضي للملف الشخصي: يمكن تخصيصه حسب رغبتك.\n🎨 سمات للهدايا: لمظهر أجمل وأكثر تنوعًا.\n🔝 ترقية الهدايا للآخرين: بخيارات أكثر مرونة.\n💲 قيمة الهدايا: أصبحت أوضح وأسهل في العرض.\n🛠 إصلاحات للأخطاء وتحسينات عامة لزيادة الاستقرار.",
+    "en": "📦 Source code updated to v12.0.1.1.\n🗓 Hide Contact Birthday Reminder: New option to disable birthday reminders for your contacts.\n🎥 HLS Original Quality: Videos now play in original HLS quality by default.\n🔍 Public Post Search: A new Posts tab in Search shows relevant results from public channels.\n📝 Story Albums: Organize your favorite stories – vacations, pets, and more – into albums on your profile.\n🎁 Gift Collections: Group your gifts into custom collections on your profile or channel.\n⭐️ Profile Rating: Rate user profiles.\n🎁 Premium Gifts: Send and receive exclusive gifts.\n🤖 BotFather Mini App: Manage bots faster and more easily.\n🎶 Music on Your Profile: Add audio files from any chat to your profile with a single tap.\n📸 Stickers Mini App: Create custom stickers with the built-in editor and manage packs via @Stickers bot.\n💥 New Profile Design: A refreshed look for profiles.\n👤 Default Profile Tab: Choose your preferred default tab.\n🎨 Gift Themes: Apply themes to gifts for a better look.\n🔝 Upgrading Gifts for Other Users: More flexible gift upgrade options.\n💲 Gift Value: Clearer and easier way to see gift values.\n🛠 Bug fixes and other minor improvements."
+  },
+  "downloadUrl": "https://www.mtaltawaf.com/2022/01/mttelegram-ples.apk",
+  "forceUpdate": false,
+  "showIntervalHours": 0,
+  "popupStyle": {
     "icon": "https://www.mtaltawaf.com/assets/update_icon.png",
     "backgroundColor": "#ffffff",
     "textColor": "#333333",
-    "cornerRadius": 16,
-    "forceUpdate": false,
-    "showIntervalHours": 0
+    "buttonDownloadColor": "#4CAF50",
+    "buttonLaterColor": "#FFC107",
+    "cornerRadius": 16
   }
 }
