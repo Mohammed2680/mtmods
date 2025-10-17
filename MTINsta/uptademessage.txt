@@ -1,12 +1,12 @@
 {
   "MTMods": {
-    "update_code": "22",
+    "update_code": "23",
     "reminder_time": "1",
-    "update_version": "V22",
+    "update_version": "V23",
     "com.instagram.android": "https://www.mtaltawaf.com/2020/11/mtinstagram.html",
     "com.ANInsta.android": "https://www.mtaltawaf.com/2020/11/mtinstagram.html",
     "update_message": "
-<p>Update Vتحديث 22</p>
+<p>Update Vتحديث 23</p>
 <li>🎲 [تحديث قاعدة] الى 325.0.0.35.91.</li>
 <li>⭐ [حصريا] دعم تغيير الايموجي(الايفون ، فيسبوك ، تويتر والمزيد..).</li>
 <li>⭐ [حصريا] دعم تغيير خط البرنامج (تم إضافة ما يقارب 100 خط).</li>
