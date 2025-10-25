@@ -1,4 +1,4 @@
-Version V23 Changelog:
+Version V24 Changelog:
 
 > 🎲[Base update] to 325.0.0.35.91.
 > ⭐ [Exclusive] Support for changing emojis (iPhone, Facebook, Twitter, and more...).
