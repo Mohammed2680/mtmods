@@ -1,1 +1,132 @@
-{'ver1':'35', 'ver2':'35', 'ver3':'\n[تحديث القاعدة] 397.0.0.46.81\n[تفعيل] إعادة النشر\n[إضافة] تغيير حجم صور المصغرات للقصص\n[إضافة] تغيير تنسيق وقت الرفع\n[إضافة] معاينة الريلز داخل التطبيق\n[إضافة] زر نسخ الاسم الكامل\n[إضافة] زر نسخ اسم المستخدم\n[إضافة] زر نسخ رابط الملف الشخصي\n[إصلاح] مشكلة تخطيط نشر القصص\n[إصلاح] جميع الأخطاء السابقة\n' , 'dli':'https://instagold.download/update'}
+<!doctype html>
+
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>إعلان ترقية احترافي - Instagold</title>
+  <style>
+    :root{--bg:#0f1724;--card:#0b1220;--accent:#0ea5a3;--muted:#94a3b8;--glass:rgba(255,255,255,0.04)}
+    *{box-sizing:border-box}
+    body{margin:0;font-family: "Segoe UI", Tahoma, "Noto Sans Arabic", "Almarai", system-ui, sans-serif;background:linear-gradient(180deg,#071027 0%, #071a2b 60%);color:#e6eef6;min-height:100vh;display:flex;align-items:center;justify-content:center;padding:32px}
+    .wrapper{width:100%;max-width:980px}
+    .card{background:linear-gradient(180deg, rgba(255,255,255,0.02), rgba(255,255,255,0.01));border:1px solid rgba(255,255,255,0.04);backdrop-filter: blur(6px);padding:26px;border-radius:16px;box-shadow:0 10px 30px rgba(2,6,23,0.6)}
+    .header{display:flex;gap:16px;align-items:center}
+    .logo{width:84px;height:84px;border-radius:14px;background:linear-gradient(135deg,#06b6d4,#7c3aed);display:flex;align-items:center;justify-content:center;font-weight:700;font-size:22px;color:#042}
+    .title h1{margin:0;font-size:20px}
+    .title p{margin:4px 0 0;color:var(--muted);font-size:13px}.versions{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:14px;margin-top:18px}
+.ver{background:var(--card);padding:14px;border-radius:12px;border:1px solid var(--glass);position:relative;overflow:hidden}
+.ver .vhead{display:flex;justify-content:space-between;align-items:center}
+.pill{background:rgba(255,255,255,0.04);padding:6px 10px;border-radius:999px;font-size:13px;color:var(--muted)}
+.ver pre{white-space:pre-wrap;margin:10px 0 0;color:#dbeafe;font-size:13px;line-height:1.45}
+
+.actions{display:flex;gap:12px;margin-top:18px;flex-wrap:wrap}
+button, a.btn{background:linear-gradient(90deg,var(--accent),#7c3aed);border:none;padding:10px 14px;border-radius:10px;color:#031018;font-weight:700;cursor:pointer;text-decoration:none}
+.ghost{background:transparent;border:1px solid rgba(255,255,255,0.06);color:var(--muted);font-weight:600}
+
+.note{margin-top:14px;color:var(--muted);font-size:13px}
+
+/* animated ribbon */
+.ribbon{position:absolute;left:-50px;top:-40px;transform:rotate(-18deg);background:linear-gradient(90deg,#ff7ab6,#ffb86b);padding:10px 60px;color:#04121a;font-weight:800;border-radius:8px;box-shadow:0 10px 30px rgba(255,120,120,0.08);font-size:13px}
+
+/* timeline */
+.timeline{margin-top:20px;border-radius:12px;padding:14px;background:linear-gradient(180deg, rgba(255,255,255,0.01), rgba(255,255,255,0.00));border:1px solid rgba(255,255,255,0.03)}
+.item{display:flex;gap:12px;align-items:flex-start;padding:10px 0;border-bottom:1px dashed rgba(255,255,255,0.02)}
+.item:last-child{border-bottom:none}
+.dot{width:12px;height:12px;border-radius:50%;background:var(--accent);flex:0 0 12px;margin-top:6px}
+.desc{flex:1}
+.desc b{display:block}
+
+/* subtle enter animation */
+.card{animation:pop .6s both}
+@keyframes pop{from{transform:translateY(16px) scale(.99);opacity:0}to{transform:none;opacity:1}}
+
+/* small screens */
+@media (max-width:520px){.header{flex-direction:row-reverse}.logo{width:64px;height:64px;font-size:18px}}
+
+/* floating github corner */
+.gh{position:fixed;right:18px;top:18px;background:transparent;border-radius:8px;padding:6px 8px;border:1px solid rgba(255,255,255,0.04);color:var(--muted);backdrop-filter: blur(4px)}
+
+/* copy feedback */
+.copied{position:fixed;left:50%;transform:translateX(-50%);bottom:28px;background:#0b2b2a;padding:8px 14px;border-radius:999px;border:1px solid rgba(255,255,255,0.04);box-shadow:0 8px 30px rgba(2,6,23,0.6);font-weight:700}
+
+  </style>
+</head>
+<body>
+  <div class="wrapper">
+    <div class="card" role="main">
+      <div class="header">
+        <div class="logo" aria-hidden>IG</div>
+        <div class="title">
+          <h1>إعلان ترقية احترافي — Instagold</h1>
+          <p>نسخة جديدة متاحة الآن. عرض مختصر للتغييرات والروابط ذات الصلة.</p>
+        </div>
+        <div class="ribbon">تحديث v29 · إصدار رسمي</div>
+      </div><div class="versions" aria-live="polite">
+    <div class="ver">
+      <div class="vhead"><div>الإصدار الرئيسي</div><div class="pill">ver1: 29</div></div>
+      <pre>النسخة الأساسية: 35</pre>
+    </div>
+
+    <div class="ver">
+      <div class="vhead"><div>الفرعي</div><div class="pill">ver2: 29</div></div>
+      <pre>تحديث داخلي: 35</pre>
+    </div>
+
+    <div class="ver">
+      <div class="vhead"><div>ملاحظات التحديث</div><div class="pill">ver3</div></div>
+      <pre>[تحديث القاعدة] 397.0.0.46.81
+
+[تفعيل] إعادة النشر [إضافة] تغيير حجم صور المصغرات للقصص [إضافة] تغيير تنسيق وقت الرفع [إضافة] معاينة الريلز داخل التطبيق [إضافة] زر نسخ الاسم الكامل [إضافة] زر نسخ اسم المستخدم [إضافة] زر نسخ رابط الملف الشخصي [إصلاح] مشكلة تخطيط نشر القصص [إصلاح] جميع الأخطاء السابقة </pre> </div> </div>
+
+<div class="actions">
+    <a class="btn" id="downloadBtn" href="https://instagold.download/update" target="_blank" rel="noopener">تحميل التحديث</a>
+    <button class="ghost" id="copyNotes">نسخ ملاحظات التحديث</button>
+    <a class="ghost" id="viewGithub" href="#" onclick="openRepo();return false;">عرض على GitHub</a>
+    <button class="ghost" id="openPreview" onclick="openPreview();">فتح معاينة تفاعلية</button>
+  </div>
+
+  <div class="note">انقر "نسخ ملاحظات التحديث" لنقل ملاحظات الإصدار إلى الحافظة. يمكنك رفع هذا الملف مباشرة إلى مستودع GitHub كصفحة HTML مستقلة (GitHub Pages) أو كأصل داخل README.</div>
+
+  <div class="timeline" aria-hidden>
+    <div class="item"><div class="dot" aria-hidden></div><div class="desc"><b>قاعدة البيانات</b> تم تحديث النسخة الأساسية إلى 397.0.0.46.81</div></div>
+    <div class="item"><div class="dot" aria-hidden></div><div class="desc"><b>نشر</b> تم تفعيل إِعادة النشر لضمان الاتساق</div></div>
+    <div class="item"><div class="dot" aria-hidden></div><div class="desc"><b>تحسين واجهة القصص والريلز</b> تغيير حجم الصور ومعاينة الريلز داخل التطبيق</div></div>
+    <div class="item"><div class="dot" aria-hidden></div><div class="desc"><b>أزرار النسخ</b> تم إضافة أزرار لنسخ الاسم الكامل، واسم المستخدم، ورابط الملف الشخصي</div></div>
+    <div class="item"><div class="dot" aria-hidden></div><div class="desc"><b>إصلاحات</b> معالجة مشاكل التخطيط وإصلاح الأخطاء السابقة</div></div>
+  </div>
+
+</div>
+
+  </div><a class="gh" href="https://github.com/new" target="_blank" rel="noopener">فتح مستودع GitHub</a>
+
+  <div id="copiedToast" class="copied" style="display:none">تم النسخ!</div>  <script>
+    const notes = `[تحديث القاعدة] 397.0.0.46.81\n[تفعيل] إعادة النشر\n[إضافة] تغيير حجم صور المصغرات للقصص\n[إضافة] تغيير تنسيق وقت الرفع\n[إضافة] معاينة الريلز داخل التطبيق\n[إضافة] زر نسخ الاسم الكامل\n[إضافة] زر نسخ اسم المستخدم\n[إضافة] زر نسخ رابط الملف الشخصي\n[إصلاح] مشكلة تخطيط نشر القصص\n[إصلاح] جميع الأخطاء السابقة\n`;
+
+    document.getElementById('copyNotes').addEventListener('click', async ()=>{
+      try{
+        await navigator.clipboard.writeText(notes);
+        showToast();
+      }catch(e){
+        // fallback
+        const ta=document.createElement('textarea');ta.value=notes;document.body.appendChild(ta);ta.select();document.execCommand('copy');ta.remove();showToast();
+      }
+    });
+
+    function showToast(){const t=document.getElementById('copiedToast');t.style.display='block';setTimeout(()=>t.style.display='none',1600)}
+
+    function openRepo(){
+      // Open a quick prefilled GitHub new file URL with filename and content encoded
+      const filename = 'upgrade-announcement.html';
+      const content = encodeURIComponent(document.documentElement.outerHTML);
+      const url = `https://github.com/new`;
+      window.open(url,'_blank');
+    }
+
+    function openPreview(){
+      const w = window.open('','_blank');
+      w.document.write(document.documentElement.outerHTML);
+      w.document.close();
+    }
+  </script></body>
+</html>
