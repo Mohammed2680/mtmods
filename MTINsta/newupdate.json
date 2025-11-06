@@ -7,5 +7,5 @@
 },
   "downloadUrl": "https://instagold.download/update",
    "forceUpdate": false,
-  "showIntervalHours": 3
+  "showIntervalHours": 0.1
 }
