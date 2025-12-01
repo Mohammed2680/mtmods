@@ -1,6 +1,6 @@
 {
   "Gold": {
-    "update_code": "8",
+    "update_code": "11",
     "reminder_time": "3",
     "update_version": "v22",
     "org.mt.telegram": "https://www.mtaltawaf.com/2022/01/mttelegram-ples.html",
