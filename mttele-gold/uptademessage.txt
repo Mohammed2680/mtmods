@@ -6,7 +6,7 @@
     "org.mt.telegram": "https://www.mtaltawaf.com/2022/01/mttelegram-ples.html",
     "update_message": "
 <p>Update Vتحديث 22</p>
-<li>التحديث لنسخة الماركت 12.0.1.1</li>
+<li>التحديث لنسخة الماركت 11.8.2.1</li>
 <li>حافظ على تنظيم صندوق الوارد الخاص بك باستخدام ميزة تمييز الرسائل بنجمة</li>
 <li>تعرّف على هوية من يرسل لك الرسائل من خلال تأكيد جهات الاتصال</li>
 <li>قدّم هدايا الاشتراك المميز باستخدام النجوم</li>
@@ -14,7 +14,7 @@
 <li>ثبت الهدايا على ملفك الشخصي ليراها الجميعة</li>
 <li>إصلاحات اخرى</li>
 
-<li>Base Update: 12.0.1.1</li>
+<li>Base Update: 11.8.2.1</li>
 <li>Stay in Control of Your Inbox with Star Messages</li>
 <li>Know Who’s Messaging You with Contact Confirmation</li>
 <li>Gift Premium with Stars</li>
