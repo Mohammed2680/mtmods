@@ -1,23 +1,26 @@
 {
   "Gold": {
-    "update_code": "9",
+    "update_code": "8",
     "reminder_time": "3",
     "update_version": "v22",
-    "org.mt.telegram": "https://www.mtaltawaf.com/2025/12/mttelegram-v12-2-3.html",
+    "org.mt.telegram": "https://www.mtaltawaf.com/2022/01/mttelegram-ples.html",
     "update_message": "
-<p>📦 تحديث قاعدة تيليجرام إلى الإصدار v12.2.3.0</p>
-<li>📺 البث المباشر في القصص:<br>في قسم القصص، داخل تبويب 'Live'، يمكنك الآن بدء بث مباشر إمّا بشكل شخصي أو باسم قناة.</li>
-<li>🔵 الرسائل المتكررة:<br>عند جدولة رسالة مؤجلة، أصبح بإمكان المستخدم تحديد عدد مرات تكرار الإرسال: يوميًا، أسبوعيًا، كل أسبوعين، شهريًا، كل 3 أشهر، نصف سنوي، أو سنويًا.</li>
-<li>🎁 مزاد الهدايا:<br>آلية جديدة تقوم بتوزيع الهدايا المحدودة على المستخدمين الذين يقدمون أعلى عروض باستخدام النجوم.</li>
-<li>🪟 إعادة تصميم اللوحات:<br>تم تطبيق تصميم 'الزجاج السائل – Liquid Glass' على عناصر الواجهة مثل:<br>– حقل إدخال الرسائل<br>– لوحات الأزرار في البوتات والقنوات<br>– قائمة الأوامر والهاشتاقات<br>ويمكن إيقاف تأثير الزجاج عبر: الإعدادات → توفير الطاقة → مؤثرات المحادثة.</li>
-<li>➕ إضافات أخرى:<br>😀 إعدادات خصوصية للموسيقى المحفوظة في الملف الشخصي.<br>📸 إمكانية إضافة جهة اتصال جديدة عبر مسح رمز QR.<br>✅ خيار لمزامنة جهات اتصال تيليجرام المحفوظة مع سجل الهاتف.<br>🚫 خيار لمنع استقبال الهدايا من القنوات ضمن إعدادات الخصوصية.</li>
+<p>Update Vتحديث 21</p>
+<li>التحديث لنسخة الماركت 12.0.1.1</li>
+<li>حافظ على تنظيم صندوق الوارد الخاص بك باستخدام ميزة تمييز الرسائل بنجمة</li>
+<li>تعرّف على هوية من يرسل لك الرسائل من خلال تأكيد جهات الاتصال</li>
+<li>قدّم هدايا الاشتراك المميز باستخدام النجوم</li>
+<li>اسحب رصيد النجوم من خلال منصة Fragment</li>
+<li>ثبت الهدايا على ملفك الشخصي ليراها الجميعة</li>
+<li>إصلاحات اخرى</li>
 
-<p>📦 Source code updated to v12.2.3.0</p>
-<li>📺 Live broadcasts in Stories:<br>In the Stories section, under the 'Live' tab, you can now start a live stream either personally or on behalf of a channel.</li>
-<li>🔵 Recurring messages:<br>When scheduling a delayed message, users can now specify how often it should be sent: daily, weekly, every two weeks, monthly, quarterly, semi-annually, or annually.</li>
-<li>🎁 Auction for gifts:<br>A new mechanic distributes limited gifts among users who place the highest bids using stars.</li>
-<li>🪟 Redesigned panels:<br>The new 'Liquid Glass' design is now applied to interface elements such as:<br>– Message input field<br>– Button panels in bots and channels<br>– The menu for commands and hashtags<br>The glass effect can be disabled from: Settings → Power Saving → Chat Animations.</li>
-<li>➕ Other additions:<br>😀 Privacy settings for music saved in profile.<br>📸 Ability to add a new contact by scanning a QR code.<br>✅ Checkbox for syncing saved Telegram contacts with the device’s phonebook.<br>🚫 Option to block receiving gifts from channels in privacy settings.</li>
+<li>Base Update: 12.0.1.1</li>
+<li>Stay in Control of Your Inbox with Star Messages</li>
+<li>Know Who’s Messaging You with Contact Confirmation</li>
+<li>Gift Premium with Stars</li>
+<li>Withdraw Stars via Fragment</li>
+<li>Pin Gifts on Your Profile</li>
+<li>Other fixes</li>
 "
-  }
+    }
 }
