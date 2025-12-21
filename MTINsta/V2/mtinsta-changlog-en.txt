@@ -1,6 +1,8 @@
-What's new in Instagram Plus V23.0:
-✔️ Fixed the problem of changing the icon 
-✔️ Fixed Crash problem when opening group chats
-✔️ Fixed Location of the Send button
-✔️ Fixed Problem when downloading videos shows that they are not supported
-✔️ fixes and other improvements
+🔄What's new in version V26 🔄
+
+
+🛠 Fix the problem call.
+🛠 Many repairs and additions.
+🛠 More repairs and improvements discover it yourself.
+
+💡 Note: We recommend going to MTInsta Settings → Themes & Interface → Emoji then restarting the app to benefit from the new features and ensure better stability during use.
