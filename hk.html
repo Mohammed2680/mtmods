@@ -1,0 +1,334 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<title>طواف نت - تسجيل دخول</title>
+
+<link href="https://fonts.googleapis.com/css2?family=Cairo:wght@300;500;700;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
+<style>
+:root{
+    --accent:#00f2ff;
+    --accent2:#bd00ff;
+    --glass:rgba(255,255,255,.06);
+}
+
+/* Reset */
+*{margin:0;padding:0;box-sizing:border-box}
+body{
+    font-family:'Cairo',sans-serif;
+    background:#0b0b0d;
+    color:#fff;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    min-height:100vh;
+    overflow:hidden;
+}
+
+/* خلفية متحركة */
+body::before{
+    content:"";
+    position:absolute;top:-50%;left:-50%;
+    width:200%;height:200%;
+    background:radial-gradient(circle,#1a1a3a,#000);
+    animation:bgRotate 30s linear infinite;
+    z-index:0;
+}
+@keyframes bgRotate{0%{transform:rotate(0deg)}100%{transform:rotate(360deg)}}
+
+/* Glass card */
+.glass-card{
+    position:relative;
+    z-index:2;
+    width:92%;
+    max-width:400px;
+    background:rgba(255,255,255,.03);
+    backdrop-filter:blur(25px);
+    border-radius:30px;
+    border:1px solid rgba(255,255,255,.08);
+    padding:25px 20px;
+    box-shadow:0 25px 60px rgba(0,0,0,.8);
+    animation:floatUp 1s cubic-bezier(0.2,0.8,0.2,1);
+}
+@keyframes floatUp{from{opacity:0;transform:translateY(30px)}to{opacity:1;transform:translateY(0)}}
+
+/* Header */
+.header{text-align:center;margin-bottom:15px}
+.network-name{
+    font-size:1.8rem;
+    font-weight:900;
+    background:linear-gradient(90deg,var(--accent),var(--accent2));
+    -webkit-background-clip:text;
+    -webkit-text-fill-color:transparent;
+    text-shadow:0 0 15px var(--accent);
+}
+.sub-title{font-size:.75rem;color:#aaa;letter-spacing:1px;}
+
+/* Payment Pill */
+.payment-pill{
+    background:rgba(255,215,0,.08);
+    border:1px solid rgba(255,215,0,.2);
+    padding:6px 15px;
+    border-radius:50px;
+    font-size:.75rem;
+    color:#ffd700;
+    text-align:center;
+    margin-bottom:15px;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    gap:8px;
+    box-shadow:0 0 15px rgba(255,215,0,.2);
+}
+
+/* Pulse dot */
+.pulse-dot{
+    width:8px;height:8px;
+    border-radius:50%;
+    background:#ffd700;
+    animation:pulse 1.5s infinite;
+}
+@keyframes pulse{0%{transform:scale(1);opacity:1}50%{transform:scale(1.6);opacity:.5}100%{transform:scale(1);opacity:1}}
+
+/* Ticker */
+.ticker-wrapper{
+    height:30px;
+    overflow:hidden;
+    background:rgba(0,0,0,.45);
+    border-radius:6px;
+    margin-bottom:20px;
+    border-right:2px solid var(--accent);
+    position:relative;
+}
+.ticker-track{
+    display:flex;
+    width:max-content;
+    animation:tickerAnim 18s linear infinite;
+}
+.ticker-text{
+    white-space:nowrap;
+    font-size:.78rem;
+    padding-left:40px;
+    display:flex;
+    align-items:center;
+    gap:10px;
+    color:#fff;
+}
+@keyframes tickerAnim{0%{transform:translateX(0)}100%{transform:translateX(-50%)}}
+.highlight{color:var(--accent);font-weight:700;}
+
+/* Input Fields */
+.input-group{position:relative;margin-bottom:12px}
+.custom-input,.custom-select{
+    width:100%;
+    padding:12px 40px 12px 15px;
+    border-radius:12px;
+    background:rgba(255,255,255,.05);
+    border:1px solid rgba(255,255,255,.1);
+    color:#fff;
+    font-size:.95rem;
+    transition:.3s;
+}
+.custom-input:focus,.custom-select:focus{
+    border-color:var(--accent);
+    box-shadow:0 0 15px var(--accent);
+    background:rgba(0,0,0,.3);
+}
+.field-icon{
+    position:absolute;
+    right:15px;
+    top:50%;
+    transform:translateY(-50%);
+    color:rgba(255,255,255,.5);
+    transition:.3s;
+}
+.custom-input:focus + .field-icon,
+.custom-select:focus + .field-icon{color:var(--accent);}
+
+/* Login Button */
+.login-btn{
+    width:100%;
+    padding:14px;
+    border:none;
+    border-radius:12px;
+    font-weight:700;
+    font-size:1rem;
+    background:linear-gradient(90deg,var(--accent),var(--accent2));
+    color:#fff;
+    margin:12px 0;
+    cursor:pointer;
+    position:relative;
+    overflow:hidden;
+    box-shadow:0 0 25px rgba(0,242,255,.3);
+}
+.login-btn::before{
+    content:'';
+    position:absolute;
+    top:0;left:-100%;
+    width:100%;height:100%;
+    background:linear-gradient(90deg,transparent,rgba(255,255,255,.4),transparent);
+    animation:shine 3s infinite;
+}
+@keyframes shine{0%{left:-100%}20%{left:100%}100%{left:100%}}
+
+/* Tools Box */
+.tools-box{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    background:rgba(0,0,0,.25);
+    border-radius:12px;
+    padding:10px 14px;
+    border:1px solid rgba(255,255,255,.06);
+    margin-bottom:12px;
+}
+.switch-text{font-size:.82rem;font-weight:600;display:flex;align-items:center;gap:5px}
+.switch-sub{font-size:.65rem;color:#aaa;margin-top:2px}
+
+/* Mini switch */
+.mini-switch{width:36px;height:20px;position:relative}
+.mini-switch input{opacity:0;width:0;height:0}
+.slider{
+    position:absolute;inset:0;background:#333;border-radius:34px;transition:.4s
+}
+.slider:before{
+    content:"";
+    position:absolute;width:14px;height:14px;background:#fff;border-radius:50%;
+    left:3px;top:3px;transition:.4s;
+}
+input:checked + .slider{background:var(--accent)}
+input:checked + .slider:before{transform:translateX(16px)}
+
+/* Quick links */
+.quick-links{
+    display:grid;
+    grid-template-columns:repeat(3,1fr);
+    gap:10px;
+    margin-bottom:15px;
+}
+.quick-item{
+    background:rgba(255,255,255,.05);
+    border-radius:12px;
+    padding:10px 5px;
+    text-align:center;
+    font-size:.72rem;
+    color:#ccc;
+    transition:.3s;
+    cursor:pointer;
+}
+.quick-item i{display:block;margin-bottom:5px;font-size:1.2rem;color:var(--accent)}
+.quick-item:hover{color:#fff;background:rgba(0,242,255,.1);transform:scale(1.05)}
+
+/* Modal */
+.modal{
+    position:fixed;inset:0;
+    background:rgba(0,0,0,.6);
+    backdrop-filter:blur(8px);
+    display:flex;align-items:center;justify-content:center;
+    z-index:99;
+}
+.modal-box{
+    background:linear-gradient(135deg,#6a1bb1,#3a0f6d);
+    padding:22px;border-radius:18px;
+    text-align:center;width:85%;max-width:320px;
+    border:1px solid rgba(255,255,255,.2);
+    animation:scaleIn .5s ease;
+}
+@keyframes scaleIn{from{transform:scale(.8);opacity:0}to{transform:scale(1);opacity:1}}
+.modal-box h3{font-size:1.1rem;margin-bottom:8px}
+.modal-box p{font-size:.85rem;opacity:.9;margin-bottom:12px}
+.modal-box button{
+    padding:8px 25px;border-radius:10px;border:1px solid #fff;
+    background:transparent;color:#fff;cursor:pointer;
+}
+
+/* Footer */
+.footer-copy{text-align:center;font-size:.6rem;opacity:.3;margin-top:10px}
+
+</style>
+</head>
+
+<body>
+
+<!-- إشعار عند الدخول -->
+<div class="modal" id="welcomeModal">
+    <div class="modal-box">
+        <h3>عزيزي العميل 🤍</h3>
+        <p>لا تجعل الله أهون الناظرين إليك</p>
+        <button onclick="closeModal()">فهمت</button>
+    </div>
+</div>
+
+<div class="glass-card">
+
+<div class="header">
+    <div class="network-name">طواف نت</div>
+    <div class="sub-title">شبكة لاسلكية فائقة السرعة</div>
+</div>
+
+<div class="payment-pill">
+    <div class="pulse-dot"></div>
+    الدفع متاح عبر: ون كاش • جوالي • كاش • جيب
+</div>
+
+<div class="ticker-wrapper">
+    <div class="ticker-track">
+        <div class="ticker-text">
+            <i class="fas fa-wifi"></i> توصيل إنترنت للمنازل <span class="highlight">مجاناً</span> |
+            <i class="fas fa-headset"></i> دعم فني <span class="highlight">24 ساعة</span>
+        </div>
+        <div class="ticker-text">
+            <i class="fas fa-tags"></i> عروض مميزة |
+            <i class="fas fa-map-marker-alt"></i> نقاط بيع متعددة
+        </div>
+    </div>
+</div>
+
+<form>
+<div class="input-group">
+    <select class="custom-select">
+        <option>2M - سرعة عالية</option>
+        <option>4M - توربو</option>
+        <option>1M - اقتصادية</option>
+    </select>
+    <i class="fas fa-gauge field-icon"></i>
+</div>
+
+<div class="input-group">
+    <input class="custom-input" placeholder="رقم الكرت">
+    <i class="fas fa-lock field-icon"></i>
+</div>
+
+<button class="login-btn">تسجيل الدخول</button>
+
+<div class="tools-box">
+    <div>
+        <div class="switch-text"><i class="fas fa-shield-alt"></i> توفير البيانات</div>
+        <div class="switch-sub">سيتم إيقاف التحديثات تلقائيًا</div>
+    </div>
+    <label class="mini-switch">
+        <input type="checkbox" checked>
+        <span class="slider"></span>
+    </label>
+</div>
+
+<div class="quick-links">
+    <div class="quick-item"><i class="fas fa-map-marker-alt"></i>نقاط البيع</div>
+    <div class="quick-item"><i class="fas fa-tags"></i>الأسعار</div>
+    <div class="quick-item"><i class="fas fa-gift"></i>العروض</div>
+</div>
+</form>
+
+<div class="footer-copy">
+    تطوير وبرمجة م. محمد الطواف
+</div>
+</div>
+
+<script>
+function closeModal(){document.getElementById('welcomeModal').style.display='none'}
+</script>
+</body>
+</html>
