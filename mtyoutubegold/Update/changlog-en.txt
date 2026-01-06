@@ -1,4 +1,11 @@
-Version 18.0. Changelog:
+VersionVersion 18. Changelog:
+
+> Updated the base to version 20.19.43
+> New design for the Gold Settings and also for the video page
+> Fixed Problem of not being able to play videos
+> Fixed Problem downloading videos
+> Fixed All crash problems
+> More fixes and other improvements 18.0. Changelog:
 
 >Added All new features.
 >Fixed Problem downloading videos.
