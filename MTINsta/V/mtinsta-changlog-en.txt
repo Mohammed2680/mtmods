@@ -1,14 +1,5 @@
 🔄What's new in version V25 🔄
 
-✅ Updated to base version: 408.0.0.51.78
-🎨 Drawing feature enabled
-📌 Location / Map feature activated
-⏱ Added option to change story loading time
-✍️ New Fonts Added
-🖼 Fixed story thumbnail size issue
-🌛 Fixed occasional dark mode switching issue
-🔵 Fixed update screen appearing on connection
-📥 Fixed media loading issues (photos & videos)
-💥 Crash fixes and stability improvements
-✅ Many additional fixes and performance enhancements
-🛡 This update focuses on stability, smooth performance, and a better overall user experience
+🛠 Fix the problem call.
+🛠 Many repairs and additions.
+🛠 More repairs and improvements discover it yourself.
