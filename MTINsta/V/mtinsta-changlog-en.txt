@@ -1,6 +1,5 @@
 🔄What's new in version V25 🔄
 
-
 ✅ Updated to base version: 408.0.0.51.78
 🎨 Drawing feature enabled
 📌 Location / Map feature activated
